@@ -1,0 +1,90 @@
+.titulo {
+  font-size: 38px;
+  text-align: center;
+  margin: auto;
+}
+
+.subtitulo {
+  font-size: 30px;
+  text-align: center;
+  margin: auto;
+  margin-top: 10px;
+}
+
+.navegacao {
+  font-size: 18px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-align: center;
+  margin: auto;
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
+
+.navegacao2 {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-align: center;
+  padding: 20px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.navegacaolink {
+  color: #FFE5DA;
+}
+
+.navegacaolink2 {
+  color: #FFE5DA;
+  margin: 20px;
+  padding: 10px;
+  font-size: 28px;
+  font-weight: bolder;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 40%;
+}
+
+.selectcontainer {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+
+.select {
+  margin-right: 10px;
+}
+
+.textarea {
+  margin-bottom: 10px;
+  width: 80%;
+  height: 400px;
+  text-align: justify;
+}
+
+.botao {
+  margin-bottom: 10px;
+}
+
+.input {
+  margin: 5px;
+  font-size: 14px;
+}
+
+.inputmenusus {
+  font-size: 22px;
+  margin: 10px;
+
+}
+
+.resultado {
+  font-size: 20px;
+  margin: 10px;
+}
+
+.linkexterno {
+  margin-top: 50px;
+  text-align: center;
+}

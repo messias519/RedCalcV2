@@ -1,0 +1,23 @@
+/* paleta de cores: 
+ #A00D0D
+ #B07062
+ #FFE5DA
+ #53B9C7
+ */
+
+html {
+  background-image: linear-gradient(to bottom,
+      #eb2e2e,
+      #d62d26,
+      #c12b1f,
+      #ad2919,
+      #9a2613,
+      #942311,
+      #8f210e,
+      #891e0c,
+      #8f1b0c,
+      #94180c,
+      #9a130c,
+      #a00d0d);
+  background-size: 1000% 1000%;
+}
