@@ -61,8 +61,9 @@ export default function ConverterTexto() {
           style={{ fontFamily: font, fontSize: fontSize }}
           className={styles.textarea}
         />
-        <button className={styles.botao} onClick={handleClick}>Transformar em maiúsculo</button>
         <button className={styles.botao} onClick={handleClear}>Limpar</button>
+        <button className={styles.botao} onClick={handleClick}>Transformar em maiúsculo</button>
+        
       </div>
 
     </div>
